@@ -2,7 +2,7 @@
 using namespace std;
 int c[3] = {'A', 'B', 'C'};
 
-void thap(int n, i, j, k)
+void thap(int n, int i, int j, int k)
 {
     if (n == 1)
     {

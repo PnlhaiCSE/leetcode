@@ -1,2 +1,2 @@
 # leetcode
-Practice on LeetCode
+Tự học và luyện LeetCode
